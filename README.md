@@ -1,73 +1,73 @@
-# SIRCSS Summer School in Computational Text Analysis 2024
+# SIRCSS Summer School in Computational Text Analysis 2026
 
-> This repository hosts code and information for the SIRCSS Summer School in Computational Text Analysis 2024 at Campus Norrköping
+> This repository hosts code and information for the SIRCSS Summer School in Computational Text Analysis 2026 at Campus Norrköping
 
 ## How to find seminar rooms at LiU
 
 Use [this interactive map of Campus Norrköping](https://use.mazemap.com/#v=1&config=liu&zlevel=2&center=16.176638,58.589049&zoom=16.2&campusid=754) to find rooms on site.
 
 > [!IMPORTANT]
-> The official program (lectures, seminars, presentations) will happen exclusively in building ["Täppan", room TP43](https://link.mazemap.com/o6QtkZh4).
+> The official program (lectures, seminars, presentations) will happen exclusively in *XXXX*. 
 
 ## Schedule
 
 > [!NOTE]
-> Please find the more detailed up-to-date schedule as a PDF file [here](https://github.com/IAS-LiU/SIRCSS-CTA_2024/blob/main/SIRCSS%20CTA%202024%20Schedule.pdf).
+> Please find the more detailed up-to-date schedule as a PDF file *HERE*.
 
 Sunday, June 9
 
 * 🏨 Check-in at Hotel President
-* 🍻 Welcome-Meeting at Ölstugan Tullen (Sankt Persgatan 80)
+* 🍻 Welcome-Meeting at *XXXX*
 
 ### Week One
 
-Monday, June 10
+Monday, June 8
 
-* 🕤 Introduction to the Summer School
-* 📖 Introductory Lectures on Text as Data
+* 🕤 9:30 – 10:00 Introduction to the Summer School
+* 📖 10:00 – 12:00 Introduction: Text as Data (in the Social Sciences)
 
-Tuesday, June 11
+Tuesday, June 9
 
-* 📖 Lecture on Topic Models
-* 📚 Literature Seminar on Topic Models
+* 📖 9:00 – 12:00 Lecture on Topic Models
+* 📚 13:00 – 15:00 Literature Seminar on Topic Models
 
-Wednesday, June 12
+Wednesday, June 10
 
-* 🧪 Lab session on Topic Models
+* 🧪 9:00 –  12:00 Lab session on Topic Models
 
-Thursday, June 13
+Thursday, June 11
 
-* 📖 Lecture on Word Embeddings
-* 📚 Literature Seminar on Word Embeddings
+* 📖 9:00 – 12:00 Lecture on Word Embeddings
+* 📚 13:00 –  15:00 Literature Seminar on Word Embeddings
 
-Friday, June 14
+Friday, June 12
 
-* 🧪 Lab session on Word Embeddings
+* 🧪 9:00 – 12:00 Lab session on Word Embeddings
 
 ### Week Two
 
-Monday, June 17
+Monday, June 15
 
-* 📖 Lecture on Transformers/Encoders
-* 📚 Literature Seminar on Transformer/Encoder Models
+* 📖 9:00 – 12:00 Lecture on Transformers/Encoders
+* 📚 13:00 –  15:00 Literature Seminar on Transformer/Encoder Models
 
-Tuesday, June 18
+Tuesday, June 16 
 
-* 📖 Lecture on Large Language Models/Decoders
-* 📚 Literature Seminar on Large Language Models/Decoders
+* 📖 9:00 – 15:00 🧪 Lab session on encoders / Study day (voluntary)
 
-Wednesday, June 19
+Wednesday, June 17
 
-* 🧪 Lab session on LLMs (Encoders & Decoders)
+* 📖 9:00 – 12:00 Lecture on LLMs / Decoders
+* 📚 13:00 –  15:00 Literature Seminar on Transformer decoder models/LLMs
 
 Thursday, June 20
 
-* 🧑🏼‍🏫 Student Presentations
-* 🍻 Farewell at Ölstugan Tullen (Sankt Persgatan 80)
+* 🧑🏼‍🏫 9:00 – 17:00 Student Presentations
+* 🍻 from 18:00 Farewell *XXXX*
 
-Friday, June 21
+Friday, June 18
 
-* 🏨 Check-out from Hotel President
+* 🏨 Check-out from Hotel & Midsummar!
 
 ## License
 
