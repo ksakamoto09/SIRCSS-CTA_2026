@@ -60,12 +60,12 @@ Wednesday, June 17
 * 📖 9:00 – 12:00 Lecture on LLMs / Decoders
 * 📚 13:00 –  15:00 Literature Seminar on Transformer decoder models/LLMs
 
-Thursday, June 20
+Thursday, June 18
 
 * 🧑🏼‍🏫 9:00 – 17:00 Student Presentations
 * 🍻 from 18:00 Farewell *XXXX*
 
-Friday, June 18
+Friday, June 19
 
 * 🏨 Check-out from Hotel & Midsummar!
 
