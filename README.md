@@ -13,6 +13,8 @@ Use [this interactive map of Campus Norrköping](https://use.mazemap.com/#v=1&co
 
 > [!NOTE]
 > Please find the more detailed up-to-date schedule as a PDF file *HERE*.
+> Morning coffee/tea will be served at 9:45 when class starts at 9:00, first day will be available at 9:15
+> Afternoon coffee/tea + pastry will be served at 2:00pm when we have afternoon sessions
 
 Sunday, June 9
 
@@ -34,6 +36,7 @@ Tuesday, June 9
 Wednesday, June 10
 
 * 🧪 9:00 –  12:00 [room: KO22] Lab session on Topic Models
+* 18:00 - 20:00 [Enoteket] Welcome Dinner
 
 Thursday, June 11
 
