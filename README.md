@@ -23,33 +23,33 @@ Sunday, June 9
 
 Monday, June 8
 
-* 🕤 9:30 – 10:00 Introduction to the Summer School
-* 📖 10:00 – 12:00 Introduction: Text as Data (in the Social Sciences)
+* 🕤 9:30 – 10:00 [KO22] Introduction to the Summer School
+* 📖 10:00 – 12:00 [KO22] Introduction: Text as Data (in the Social Sciences)
 
 Tuesday, June 9
 
-* 📖 9:00 – 12:00 Lecture on Topic Models
-* 📚 13:00 – 15:00 Literature Seminar on Topic Models
+* 📖 9:00 – 12:00 [KO22] Lecture on Topic Models
+* 📚 13:00 – 15:00 [KO22] Literature Seminar on Topic Models
 
 Wednesday, June 10
 
-* 🧪 9:00 –  12:00 Lab session on Topic Models
+* 🧪 9:00 –  12:00 [KO22] Lab session on Topic Models
 
 Thursday, June 11
 
-* 📖 9:00 – 12:00 Lecture on Word Embeddings
-* 📚 13:00 –  15:00 Literature Seminar on Word Embeddings
+* 📖 9:00 – 12:00 [KO22] Lecture on Word Embeddings
+* 📚 13:00 –  15:00 [KO22] Literature Seminar on Word Embeddings
 
 Friday, June 12
 
-* 🧪 9:00 – 12:00 Lab session on Word Embeddings
+* 🧪 9:00 – 12:00 [KO22] Lab session on Word Embeddings
 
 ### Week Two
 
 Monday, June 15
 
-* 📖 9:00 – 12:00 Lecture on Transformers/Encoders
-* 📚 13:00 –  15:00 Literature Seminar on Transformer/Encoder Models
+* 📖 9:00 – 12:00 [KO22] Lecture on Transformers/Encoders
+* 📚 13:00 –  15:00 [KO22] Literature Seminar on Transformer/Encoder Models
 
 Tuesday, June 16 
 
@@ -62,7 +62,7 @@ Wednesday, June 17
 
 Thursday, June 18
 
-* 🧑🏼‍🏫 9:00 – 17:00 Student Presentations
+* 🧑🏼‍🏫 9:00 – 17:00 [KO22] Student Presentations
 * 🍻 from 18:00 Farewell *XXXX*
 
 Friday, June 19
