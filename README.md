@@ -54,6 +54,7 @@ Monday, June 15
 Tuesday, June 16 
 
 * 🧪 9:00 – 15:00 [room: KO22] Lab session on encoders / Study day (voluntary)
+* After work with everyone from IAS likely at Ölstugan Tullen (tba)
 
 Wednesday, June 17
 
